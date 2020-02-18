@@ -1,0 +1,2 @@
+# Thousand-Schnapsen---AI-project
+.
