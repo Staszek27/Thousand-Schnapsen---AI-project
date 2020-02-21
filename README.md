@@ -17,4 +17,4 @@ Where player key is equal to:
 
 If arguments are not given, the game starts between bot, person and second type bot.
 
-![alt text](https://imgur.com/xnWKiRD)
+![image info](./Downloads/1.png)
