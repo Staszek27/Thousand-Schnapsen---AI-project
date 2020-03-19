@@ -17,4 +17,4 @@ Where player key is equal to:
 
 If arguments are not given, the game starts between bot, person and second type bot.
 
-![image info](./Downloads/1.png)
+![image info](/1.png)
